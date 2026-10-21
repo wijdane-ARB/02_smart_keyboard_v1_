@@ -1,4 +1,4 @@
-Split BY DOCUMENT : train = 960 sentences / 8098 tokens, test = 240 sentences / 2070 tokens
+Split BY DOCUMENT (fixed): train = 960 sentences / 8098 tokens, test = 240 sentences / 2070 tokens
 
 model                               perplexity   zero-prob tokens   top-3 accuracy
 unigram (k=1)                            24.96            0.0%            48.0%
