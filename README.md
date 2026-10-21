@@ -2,7 +2,7 @@
 
 ## Live demo
 
-**App:** https://YOUR-APP-NAME.streamlit.app  <!-- replace with the link given by Streamlit Community Cloud -->
+**App:**   https://02smartkeyboardv1.streamlit.app/
 
 ## Run it
 ```
